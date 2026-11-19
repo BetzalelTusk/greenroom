@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hero-laptop-01",
+    "image": "web/hero-laptop-01.jpg",
+    "prompt": "Style: Photorealistic 3D product render, premium tech-brand hero shot, studio quality, isolated on pure black.\n\nMain Subject: ...paste the exact prompt that produced the image...",
+    "notes": "Keyed cleanly, no green spill. Negative space on the left was perfect for the headline.",
+    "tags": ["web", "device-mockup", "dark"]
+  },
+  {
+    "id": "poster-01",
+    "image": "posters/poster-01.jpeg",
+    "prompt": "Main Subject: [REFERENCE IMAGE CHARACTER] ...",
+    "notes": "Type sat behind the figure exactly as asked.",
+    "tags": ["poster", "typography", "monochrome"]
+  }
+]

@@ -1,0 +1,3 @@
+# Your own corpus stays private by default. Only the example is tracked.
+corpus/*
+!corpus/corpus.example.json
