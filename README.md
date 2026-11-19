@@ -90,7 +90,26 @@ you fork this repo and push your changes.
 
 ## Install
 
-**Claude Code**
+**The easy way: just give Claude the link**
+
+Paste this repo's URL into Claude Code (or any Claude that can run commands) and ask
+it to set it up for you:
+
+```
+Install this skill for me and set it up to my preferences:
+https://github.com/BetzalelTusk/greenroom
+```
+
+Claude will clone it into your skills folder and can tailor it while it's there. Tell
+it what you want, for example:
+
+- "My sites are mostly light, so default to a white background instead of black."
+- "I use Midjourney, not Nano Banana Pro. Adjust the prompts for it."
+- "My brand colours are #1E3A8A and #F59E0B. Put them in the default palette."
+- "My prompts and images are in `D:\Art\prompts`. Build the corpus from them and run Learn."
+- "Rename it to something else."
+
+**Claude Code (manual)**
 
 macOS / Linux:
 
